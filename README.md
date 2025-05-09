@@ -7,7 +7,7 @@ To Run This Project On Your Laptop.Follow These Steps:--
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/Dilraj1602/EduWave.git
+    git clone https://github.com/ravindra-singh0507/EduWave
     ```
 
 2. Install the required packages.
